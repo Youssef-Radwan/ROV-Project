@@ -1,0 +1,16 @@
+# SolidWorks temporary files
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+~$*.sld
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+~$*.SLD
+
+# SolidWorks backups and auto-recovery
+*.bak
+*.swbak
+
+# Simulation caches
+/simulation_results/
